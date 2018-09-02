@@ -3,11 +3,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>org.warn</groupId>
-	<artifactId>java-cipher-tool</artifactId>
+	<artifactId>cipher-tool</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>java-cipher-tool</name>
+	<name>cipher-tool</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
