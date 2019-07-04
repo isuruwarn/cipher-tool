@@ -88,22 +88,21 @@ public class MainWindow implements ActionListener {
 		encBtnGridCons.gridx = 1;
 		encBtnGridCons.gridy = 1;
 		encBtnGridCons.insets = new Insets(0, 20, 10, 10);
-		encBtnGridCons.fill = GridBagConstraints.HORIZONTAL;
 
 		GridBagConstraints decrBtnGridCons = new GridBagConstraints();
 		decrBtnGridCons.gridx = 2;
 		decrBtnGridCons.gridy = 1;
-		decrBtnGridCons.insets = new Insets(0, 0, 10, 10);
+		decrBtnGridCons.insets = new Insets(0, 10, 10, 0);
 
 		GridBagConstraints clearBtnGridCons = new GridBagConstraints();
 		clearBtnGridCons.gridx = 3;
 		clearBtnGridCons.gridy = 1;
-		clearBtnGridCons.insets = new Insets(0, 0, 10, 10);
+		clearBtnGridCons.insets = new Insets(0, 10, 10, 0);
 
 		GridBagConstraints copyOutputBtnGridCons = new GridBagConstraints();
 		copyOutputBtnGridCons.gridx = 4;
 		copyOutputBtnGridCons.gridy = 1;
-		copyOutputBtnGridCons.insets = new Insets(0, 0, 10, 10);
+		copyOutputBtnGridCons.insets = new Insets(0, 10, 10, 0);
 
 		GridBagConstraints inputLblGridCons = new GridBagConstraints();
 		inputLblGridCons.gridx = 0;

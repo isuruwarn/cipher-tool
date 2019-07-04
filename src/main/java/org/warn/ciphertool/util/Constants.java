@@ -3,9 +3,9 @@ package org.warn.ciphertool.util;
 public class Constants {
 
 	public static final String TITLE = "Cipher Tool";
-	public static final int PREF_FRAME_WIDTH = 500;
+	public static final int PREF_FRAME_WIDTH = 600;
 	public static final int PREF_FRAME_HEIGHT = 320;
-	public static final int MIN_FRAME_WIDTH = 500;
+	public static final int MIN_FRAME_WIDTH = 600;
 	public static final int MIN_FRAME_HEIGHT = 320;
 	
 	public static final String LOAD_KEY = "Load Key";
@@ -16,13 +16,13 @@ public class Constants {
 	public static final String CLEAR = "Clear";
 	public static final String COPY_OUTPUT = "Copy Output";
 	
-	public static final int PREF_TEXTFIELD_WIDTH = 350;
+	public static final int PREF_TEXTFIELD_WIDTH = 400;
 	public static final int PREF_TEXTFIELD_HEIGHT = 25;
-	public static final int MIN_TEXTFIELD_WIDTH = 350;
+	public static final int MIN_TEXTFIELD_WIDTH = 400;
 	public static final int MIN_TEXTFIELD_HEIGHT = 25;
-	public static final int PREF_TEXTAREA_WIDTH = 350;
+	public static final int PREF_TEXTAREA_WIDTH = 400;
 	public static final int PREF_TEXTAREA_HEIGHT = 70;
-	public static final int MIN_TEXTAREA_WIDTH = 350;
+	public static final int MIN_TEXTAREA_WIDTH = 400;
 	public static final int MIN_TEXTAREA_HEIGHT = 70;
 	
 	public static final String FILE_MENU = "File";
