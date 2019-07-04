@@ -1,12 +1,5 @@
 package org.warn.ciphertool.util;
 
-import javax.swing.Icon;
-
-
-
-
-
-
 public class Constants {
 
 	public static final String TITLE = "Encrypter";
