@@ -2,7 +2,7 @@ package org.warn.ciphertool.util;
 
 public class Constants {
 
-	public static final String TITLE = "Encrypter";
+	public static final String TITLE = "Cipher Tool";
 	public static final int PREF_FRAME_WIDTH = 500;
 	public static final int PREF_FRAME_HEIGHT = 320;
 	public static final int MIN_FRAME_WIDTH = 500;
@@ -14,6 +14,7 @@ public class Constants {
 	public static final String INPUT = "Input";
 	public static final String OUTPUT = "Output";
 	public static final String CLEAR = "Clear";
+	public static final String COPY_OUTPUT = "Copy Output";
 	
 	public static final int PREF_TEXTFIELD_WIDTH = 350;
 	public static final int PREF_TEXTFIELD_HEIGHT = 25;
@@ -30,7 +31,7 @@ public class Constants {
 	public static final String EXIT_ACTION = "Exit";
 	public static final String EDIT_MENU = "Edit";
 	public static final String COPY_INPUT_ACTION = "Copy Input";
-	public static final String COPY_OUPUT_ACTION = "Copy Output";
+	public static final String COPY_OUTPUT_ACTION = "Copy Output";
 	public static final String CLEAR_ALL_ACTION = "Clear All";
 	public static final String TOOLS_MENU = "Tools";
 	
